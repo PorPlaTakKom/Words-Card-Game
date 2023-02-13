@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Words Card Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+เป็นเว็บ Application ที่จะให้ผู้ใช้งานเพิ่มคำศัพท์ภาษาอังกฤษและภาษาไทย เพื่อบันทึกคำศัพท์และยังสามารถนำคำศัพท์มาเล่นเป็นเกมได้
+โดยจะสุ่มคำศัพท์ที่ผู้ใช้งานได้บันทึกไว้มาทายโดยจะสามารถเลือกได้ว่าจะทายเป็นภาษาไทยหรืออังกฤษ
 
-## Recommended IDE Setup
+### ตัวอย่าง
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![image.png](assets/image.png)
+
+![image.png](assets/image2.png)
+
+![image.png](assets/image3.png)
+
+![image.png](assets/image4.png)
+
+![image.png](assets/image6.png)
+
+![image.png](assets/image7.png)
+
+![image.png](assets/image8.png)
+
+![image.png](assets/image9.png)
+
+![image.png](assets/image10.png)
+
+![image.png](assets/image11.png)

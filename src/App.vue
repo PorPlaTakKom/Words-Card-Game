@@ -1,8 +1,8 @@
 <script setup>
 import Card from "./components/Card.vue";
 import {onUpdated, ref} from "vue";
-
-let data = ref([{en: 'ant', th: 'มด'}, {en: 'apple', th: 'แอปเปิล'}, {en: 'colors', th: 'สี'}, {en: 'cat', th: 'แมว'}])
+//
+let data = ref([{en: 'ant', th: 'มด'}, {en: 'apple', th: 'แอปเปิล'}, {en: 'colors', th: 'สี'}, {en: 'cat', th: 'แมว'}, {en: 'car', th:'รถยนต์'}])
 let isAddWord = ref(false)
 let errorMsg = ref({engWord: false, thaiWord: false})
 let isSelectMode = ref(false)
